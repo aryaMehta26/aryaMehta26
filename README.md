@@ -43,8 +43,6 @@ Here are some of the technologies I work with:
 
 ## My GitHub Stats & Activity 📊📈
 
-(Remember to replace `YOUR_GITHUB_USERNAME` with `aryaMehta26` if you copy-paste any other stat URLs in the future. The ones below are already set for `aryaMehta26`.)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryaMehta26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Arya's GitHub Stats"/>
   <br/>
