@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/arya-mehta-148a35200"> <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Arya Mehta - Data Engineer Banner" width="800"/>
+  <a href="https://www.linkedin.com/in/arya-mehta-148a35200"> 
+    <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Arya Mehta - Data Engineer Banner" width="800"/>
   </a>
 </div>
-
 <h1 align="center">Hey there, I'm Arya Mehta 👋</h1>
 
 <p align="center">
