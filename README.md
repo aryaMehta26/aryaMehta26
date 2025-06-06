@@ -24,7 +24,7 @@ I am a versatile technologist with a strong foundation in Python, SQL, and softw
 ✔ Big Data & Cloud: Apache Spark, Hadoop, Snowflake, AWS/GCP/Azure
 ✔ Data Engineering & Pipelines: ETL/ELT, Apache Airflow, Kafka, Docker
 ✔ Machine Learning & AI: Model Development & Deployment (TensorFlow, Keras, scikit-learn), Feature Engineering (TF-IDF), Exploratory Data Analysis (EDA), Data Preparation (Pandas), MLOps concepts
-✔ Databases: MySQL, PostgreSQL, NoSQL (MongoDB)
+✔ Databases: MySQL, PostgreSQL, NoSQL, MongoDB
 
 🔹 Projects & Experience:
 ✅ Led a team to win SJ Hacks 2025. by developing "SJ HOPES," a full-stack platform addressing homelessness in San Jose. Built in 24 hours, it features real-time shelter visibility, client support, and micro-opportunities using Spring Boot, React/Next.js, MySQL, and Google Maps API.
@@ -66,11 +66,17 @@ Here are some of the technologies I work with:
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryaMehta26&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   <br/>
+  <img src="https://komarev.com/ghpvc/?username=aryaMehta26&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryaMehta26&bg_color=1a1b27&color=70a5fd&line=5897fb&point=27d796&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aryaMehta26&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryaMehta26/aryaMehta26/output/github-contribution-grid-snake.svg" alt="Snake Game for GitHub Contributions"/>
 </p>
 
 ---
