@@ -78,7 +78,6 @@ Here are some of the technologies I work with:
 <p align="center">
   <img src="https://raw.githubusercontent.com/aryaMehta26/aryaMehta26/output/github-contribution-grid-snake.svg" alt="Snake Game for GitHub Contributions"/>
 </p>
-
 ---
 
 ## Connect with Me 🌐
