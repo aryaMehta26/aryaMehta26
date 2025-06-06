@@ -12,6 +12,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    # Grant the action write permission to the repository
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v3
 
@@ -20,7 +25,7 @@ jobs:
           # Your GitHub username
           github_user_name: aryaMehta26
 
-          # The output file for the SVG animation - CORRECTED LINE
+          # The output file for the SVG animation
           outputs: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
