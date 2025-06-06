@@ -20,8 +20,8 @@ jobs:
           # Your GitHub username
           github_user_name: aryaMehta26
 
-          # The output file for the SVG animation
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          # The output file for the SVG animation - CORRECTED LINE
+          outputs: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
