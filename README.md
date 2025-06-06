@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/arya-mehta-148a35200"> 
-    <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Arya Mehta - LINKEDIN" width="800"/>
+    <img src="https://github.com/aryaMehta26/aryaMehta26/blob/main/python-program-coding-6kx47hfzock0lrhe.webp" alt="Arya Mehta - LINKEDIN" width="800"/>
   </a>
 </div>
 <h1 align="center">Hey there, I'm Arya Mehta 👋</h1>
