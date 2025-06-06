@@ -96,5 +96,6 @@ Let's connect! You can find me on:
 ---
 
 <p align="center">
-  🦉 Fun Fact: Some of my best code gets written after sunset... I code till night!
+  🦉 Fun Fact: Some of my best code gets written after sunset... I code till night! ?
 </p>
+
