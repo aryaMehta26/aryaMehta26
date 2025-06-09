@@ -28,9 +28,13 @@ I am a versatile technologist with a strong foundation in Python, SQL, and softw
 
 🔹 Projects & Experience:
 ✅ Led a team to win SJ Hacks 2025. by developing "SJ HOPES," a full-stack platform addressing homelessness in San Jose. Built in 24 hours, it features real-time shelter visibility, client support, and micro-opportunities using Spring Boot, React/Next.js, MySQL, and Google Maps API.
+
 ✅ Developed a machine learning model to predict Netflix content popularity, leveraging TF-IDF for feature extraction from textual data and performing comprehensive EDA to uncover key insights. Successfully built, trained, and evaluated various models to achieve robust predictive performance.
+
 ✅ Engineered an end-to-end real-time finance data pipeline using Kafka, Spark, and Snowflake for streaming data processing and analytics.
+
 ✅ Designed and automated a robust ETL workflow using Airflow and AWS Lambda for efficient data ingestion and transformation from diverse sources.
+
 ✅ Created a Big Data analytics solution using Hadoop, Spark, and Tableau to derive insights from large-scale datasets.
 
 💡 I am passionate about leveraging technology to solve complex problems and continuously explore new paradigms in software engineering, data science, and AI. My goal is to contribute to impactful projects by building scalable, high-performance software and data infrastructure, with a keen interest in tech for social good.
