@@ -21,12 +21,17 @@ I am a versatile technologist with a strong foundation in Python, SQL, and softw
 
 🔹 Technical Expertise:
 ✔ Programming & Development: Python (incl. software design, testing), SQL, Java (Spring Boot), JavaScript (React/Next.js), APIs, System Design
+
 ✔ Big Data & Cloud: Apache Spark, Hadoop, Snowflake, AWS/GCP/Azure
+
 ✔ Data Engineering & Pipelines: ETL/ELT, Apache Airflow, Kafka, Docker
+
 ✔ Machine Learning & AI: Model Development & Deployment (TensorFlow, Keras, scikit-learn), Feature Engineering (TF-IDF), Exploratory Data Analysis (EDA), Data Preparation (Pandas), MLOps concepts
+
 ✔ Databases: MySQL, PostgreSQL, NoSQL, MongoDB
 
 🔹 Projects & Experience:
+
 ✅ Led a team to win SJ Hacks 2025. by developing "SJ HOPES," a full-stack platform addressing homelessness in San Jose. Built in 24 hours, it features real-time shelter visibility, client support, and micro-opportunities using Spring Boot, React/Next.js, MySQL, and Google Maps API.
 
 ✅ Developed a machine learning model to predict Netflix content popularity, leveraging TF-IDF for feature extraction from textual data and performing comprehensive EDA to uncover key insights. Successfully built, trained, and evaluated various models to achieve robust predictive performance.
