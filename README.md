@@ -6,7 +6,7 @@
 <h1 align="center">Hey there, I'm Arya Mehta 👋</h1>
 
 <p align="center">
-  <em>Passionate Data Engineer | Python & SQL Enthusiast | Airflow | Snowflake | Spark | Bay Area Resident</em>
+  <em>Passionate Software Developer | JAVA | Python & SQL Enthusiast | Distributed Systems | KAFKA | Spark | Bay Area Resident</em>
   <br />
   🚀 I enjoy building data pipelines and automating workflows.
   <br />
