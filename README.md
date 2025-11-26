@@ -80,8 +80,10 @@ Here are some of the technologies I work with:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryaMehta26&bg_color=1a1b27&color=70a5fd&line=5897fb&point=27d796&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 
   <!-- 🔥 New: Daily contribution graph (LeetCode-style streak vibes, dark-friendly) -->
+  <!-- Daily-style contribution graph (dark theme) -->
   <br/>
-  <img src="https://github-contribution-graph.ez4o.com/?username=aryaMehta26&last_n_days=30" alt="Arya's Daily GitHub Contributions (Last 30 Days)"/>
+  <img src="https://ghchart.rshah.org/3b82f6/aryaMehta26" alt="Arya's GitHub Contribution Graph" />
+
 </p>
 
 <p align="center">
