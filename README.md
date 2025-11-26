@@ -62,7 +62,7 @@ Here are some of the technologies I work with:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  </p>
+</p>
 
 ---
 
@@ -78,6 +78,10 @@ Here are some of the technologies I work with:
   <img src="https://komarev.com/ghpvc/?username=aryaMehta26&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryaMehta26&bg_color=1a1b27&color=70a5fd&line=5897fb&point=27d796&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+
+  <!-- 🔥 New: Daily contribution graph (LeetCode-style streak vibes, dark-friendly) -->
+  <br/>
+  <img src="https://github-contribution-graph.ez4o.com/?username=aryaMehta26&last_n_days=30" alt="Arya's Daily GitHub Contributions (Last 30 Days)"/>
 </p>
 
 <p align="center">
@@ -87,6 +91,7 @@ Here are some of the technologies I work with:
 <p align="center">
   <img src="https://raw.githubusercontent.com/aryaMehta26/aryaMehta26/output/github-contribution-grid-snake.svg" alt="Snake Game for GitHub Contributions"/>
 </p>
+
 ---
 
 ## Connect with Me 🌐
@@ -100,11 +105,10 @@ Let's connect! You can find me on:
   <a href="https://medium.com/@aryaMehta26" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  </p>
+</p>
 
 ---
 
 <p align="center">
   🦉 Fun Fact: Some of my best code gets written after sunset... I code till night! ?
 </p>
-
