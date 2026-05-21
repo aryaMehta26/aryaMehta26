@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://github.com/aryaMehta26/aryaMehta26/blob/main/dashboard.svg" alt="Terminal Dashboard" width="600"/>
+</p>
+<p align="center">
+  <sub>
+    <strong>[Auto-generated developer dashboard]</strong> — Your coding stats & style at a glance.<br>
+    <i>“Eat. Sleep. Code. Repeat.”</i>
+  </sub>
+</p>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/arya-mehta-148a35200"> 
     <img src="https://github.com/aryaMehta26/aryaMehta26/blob/main/python-program-coding-6kx47hfzock0lrhe.webp" alt="Arya Mehta - LINKEDIN" width="800"/>
@@ -17,7 +27,7 @@
 
 ## About Me 👨‍💻
 
-I am a versatile technologist with a strong foundation in Python, SQL, and software development principles, complemented by deep expertise in data engineering (Apache Spark, Hadoop, Snowflake, Airflow). I thrive on architecting and optimizing scalable systems, whether they are ETL pipelines, real-time data processing solutions, cloud-based architectures, or machine learning applications.
+I am a versatile technologist with a strong foundation in Python, SQL, and software development principles, complemented by deep expertise in data engineering (Apache Spark, Hadoop, Snowflake, Air[...]
 
 🔹 Technical Expertise:
 ✔ Programming & Development: Python (incl. software design, testing), SQL, Java (Spring Boot), JavaScript (React/Next.js), APIs, System Design
@@ -26,15 +36,15 @@ I am a versatile technologist with a strong foundation in Python, SQL, and softw
 
 ✔ Data Engineering & Pipelines: ETL/ELT, Apache Airflow, Kafka, Docker
 
-✔ Machine Learning & AI: Model Development & Deployment (TensorFlow, Keras, scikit-learn), Feature Engineering (TF-IDF), Exploratory Data Analysis (EDA), Data Preparation (Pandas), MLOps concepts
+✔ Machine Learning & AI: Model Development & Deployment (TensorFlow, Keras, scikit-learn), Feature Engineering (TF-IDF), Exploratory Data Analysis (EDA), Data Preparation (Pandas), MLOps concept[...]
 
 ✔ Databases: MySQL, PostgreSQL, NoSQL, MongoDB
 
 🔹 Projects & Experience:
 
-✅ Led a team to win SJ Hacks 2025. by developing "SJ HOPES," a full-stack platform addressing homelessness in San Jose. Built in 24 hours, it features real-time shelter visibility, client support, and micro-opportunities using Spring Boot, React/Next.js, MySQL, and Google Maps API.
+✅ Led a team to win SJ Hacks 2025. by developing "SJ HOPES," a full-stack platform addressing homelessness in San Jose. Built in 24 hours, it features real-time shelter visibility, client suppor[...]
 
-✅ Developed a machine learning model to predict Netflix content popularity, leveraging TF-IDF for feature extraction from textual data and performing comprehensive EDA to uncover key insights. Successfully built, trained, and evaluated various models to achieve robust predictive performance.
+✅ Developed a machine learning model to predict Netflix content popularity, leveraging TF-IDF for feature extraction from textual data and performing comprehensive EDA to uncover key insights. S[...]
 
 ✅ Engineered an end-to-end real-time finance data pipeline using Kafka, Spark, and Snowflake for streaming data processing and analytics.
 
@@ -42,7 +52,7 @@ I am a versatile technologist with a strong foundation in Python, SQL, and softw
 
 ✅ Created a Big Data analytics solution using Hadoop, Spark, and Tableau to derive insights from large-scale datasets.
 
-💡 I am passionate about leveraging technology to solve complex problems and continuously explore new paradigms in software engineering, data science, and AI. My goal is to contribute to impactful projects by building scalable, high-performance software and data infrastructure, with a keen interest in tech for social good.
+💡 I am passionate about leveraging technology to solve complex problems and continuously explore new paradigms in software engineering, data science, and AI. My goal is to contribute to impactf[...]
 
 ---
 
@@ -69,7 +79,7 @@ Here are some of the technologies I work with:
 ## My GitHub Stats & Activity 📊📈
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryaMehta26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Arya's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryaMehta26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Ary[...]
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaMehta26&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   <br/>
@@ -77,7 +87,7 @@ Here are some of the technologies I work with:
   <br/>
   <img src="https://komarev.com/ghpvc/?username=aryaMehta26&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryaMehta26&bg_color=1a1b27&color=70a5fd&line=5897fb&point=27d796&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryaMehta26&bg_color=1a1b27&color=70a5fd&line=5897fb&point=27d796&area=true&hide_border=true" alt="GitHub Activity Graph"[...]
 
   <!-- 🔥 New: Daily contribution graph (LeetCode-style streak vibes, dark-friendly) -->
   <!-- Daily-style contribution graph (dark theme) -->
@@ -114,3 +124,4 @@ Let's connect! You can find me on:
 <p align="center">
   🦉 Fun Fact: Some of my best code gets written after sunset... I code till night! ?
 </p>
+
