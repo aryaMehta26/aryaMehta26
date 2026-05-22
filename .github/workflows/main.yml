@@ -1,4 +1,4 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions
+# GitHub Action for generating a contribution snake animation
 name: Generate Snake
 
 on:
@@ -25,8 +25,10 @@ jobs:
           # Your GitHub username
           github_user_name: aryaMehta26
 
-          # The output file for the SVG animation
-          outputs: dist/github-contribution-grid-snake.svg
+          # Output files for both light and dark mode
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
