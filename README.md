@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/aryaMehta26/aryaMehta26/blob/main/dashboard.svg" alt="Terminal Dashboard" width="600"/>
+  <img src="https://github.com/aryaMehta26/aryaMehta26/blob/main/dashboard.svg" alt="Terminal Dashboard" width="100%"/>
 </p>
 <p align="center">
   <sub>
@@ -124,4 +124,3 @@ Let's connect! You can find me on:
 <p align="center">
   🦉 Fun Fact: Some of my best code gets written after sunset... I code till night! ?
 </p>
-
