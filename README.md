@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b27,50:bd93f9,75:ff79c6,100:50fa7b&height=220&section=header&text=Arya%20Mehta&fontSize=72&fontColor=f8f8f2&fontAlignY=35&desc=Systems%20Architect%20%7C%20AI%20Engineer%20%7C%20Open-Source%20Contributor&descSize=18&descAlignY=55&descColor=8be9fd&animation=fadeIn" width="100%"/>
 
 <!-- ANIMATED TYPING -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%8F%97%EF%B8%8F+Building+distributed+systems+%26+AI+agents;%F0%9F%8C%89+Bay+Area+%7C+SJSU+MS+Applied+Data+Science;%F0%9F%94%AE+LangGraph+%C2%B7+RAG+%C2%B7+Multi-Agent+%C2%B7+Kafka+%C2%B7+Spark" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+distributed+systems+%26+AI+agents;Bay+Area+%7C+SJSU+MS+Applied+Data+Science;LangGraph+%C2%B7+RAG+%C2%B7+Multi-Agent+%C2%B7+Kafka+%C2%B7+Spark" alt="Typing SVG" /></a>
 
 <!-- BADGES ROW -->
 <p>
@@ -24,44 +24,38 @@
 
 ---
 
-<!-- ABOUT -->
-## `> whoami` 👨‍💻
+## `> whoami`
 
 ```yaml
 name: Arya Mehta
-location: San Francisco Bay Area 🌉
-education: MS Applied Data Science — San Jose State University (2025–2026)
-open_source: Contributed Agentic Commerce pattern to LangGraph (Python) 🔥
+location: San Francisco Bay Area
+education: MS Applied Data Science — San Jose State University (2025-2026)
+open_source: Contributed Agentic Commerce pattern to LangGraph (Python)
 experience: 2+ years shipping production systems at scale
 currently_building: Multi-agent AI systems & distributed data platforms
 motto: "I build systems that run while the world sleeps."
-fun_fact: "Some of my best code gets written after sunset 🦉"
 ```
 
 <div align="center">
 
-<!-- OPEN SOURCE CALLOUT -->
 <a href="https://github.com/langchain-ai/langgraph">
-<img src="https://img.shields.io/badge/🏆_Open_Source_Contributor-LangGraph_(Python)-50fa7b?style=for-the-badge&labelColor=1a1b27" alt="LangGraph Contributor"/>
+<img src="https://img.shields.io/badge/Open_Source_Contributor-LangGraph_(Python)-50fa7b?style=for-the-badge&labelColor=1a1b27" alt="LangGraph Contributor"/>
 </a>
-<img src="https://img.shields.io/badge/🎓_SJSU-MS_Applied_Data_Science-bd93f9?style=for-the-badge&labelColor=1a1b27" alt="SJSU"/>
-<img src="https://img.shields.io/badge/💼_2+_Years-Production_Systems-ff79c6?style=for-the-badge&labelColor=1a1b27" alt="Experience"/>
+<img src="https://img.shields.io/badge/SJSU-MS_Applied_Data_Science-bd93f9?style=for-the-badge&labelColor=1a1b27" alt="SJSU"/>
+<img src="https://img.shields.io/badge/2+_Years-Production_Systems-ff79c6?style=for-the-badge&labelColor=1a1b27" alt="Experience"/>
 
 </div>
 
 ---
 
-<!-- STATS SECTION -->
-## ⚡ GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<!-- TROPHIES -->
 <img src="https://github-profile-trophy.vercel.app/?username=aryaMehta26&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" width="100%"/>
 
 <br>
 
-<!-- STATS + STREAK SIDE BY SIDE -->
 <table>
 <tr>
 <td width="50%">
@@ -80,26 +74,32 @@ fun_fact: "Some of my best code gets written after sunset 🦉"
 
 <br><br>
 
-<!-- LANGUAGE DONUT -->
+<!-- LEETCODE STYLE CONTRIBUTION CALENDAR -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/bd93f9/aryaMehta26"/>
+  <img src="https://ghchart.rshah.org/bd93f9/aryaMehta26" alt="Arya's Contribution Calendar" width="98%"/>
+</picture>
+
+<br><br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaMehta26&layout=donut-vertical&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=f8f8f2&langs_count=8" alt="Top Languages" width="320"/>
 
 </div>
 
 ---
 
-<!-- TECH ARSENAL - MASSIVELY EXPANDED -->
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages
+<h4>Languages</h4>
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,go,cpp,typescript,javascript&theme=dark" alt="Languages"/>
 <br>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-### 🤖 AI, Agents & Machine Learning
+<h4>AI, Agents & Machine Learning</h4>
 <p>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
@@ -111,7 +111,7 @@ fun_fact: "Some of my best code gets written after sunset 🦉"
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
 </p>
 
-### ⚙️ Backend & Web
+<h4>Backend & Web</h4>
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
@@ -123,7 +123,7 @@ fun_fact: "Some of my best code gets written after sunset 🦉"
 <img src="https://skillicons.dev/icons?i=react,nextjs,nginx&theme=dark" alt="Frontend"/>
 </p>
 
-### 🗄️ Data Systems & Infrastructure
+<h4>Data Systems & Infrastructure</h4>
 <p>
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
 <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark"/>
@@ -135,7 +135,7 @@ fun_fact: "Some of my best code gets written after sunset 🦉"
 <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
 </p>
 
-### ☁️ Cloud & DevOps
+<h4>Cloud & DevOps</h4>
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,jenkins,prometheus,grafana&theme=dark" alt="Cloud & DevOps"/>
 <br>
@@ -151,23 +151,30 @@ fun_fact: "Some of my best code gets written after sunset 🦉"
 
 ---
 
-<!-- FEATURED PROJECTS WITH DEEP DESCRIPTIONS -->
-## 🏆 Featured Projects
+## Featured Projects
 
 <!-- PROJECT 1: LayoverOS -->
 <table>
 <tr>
-<td width="100%">
+<td>
 
-### 🧠 [LayoverOS](https://github.com/aryaMehta26/LayoverOS) — Multi-Agent Recovery System
-**`Python` `FastAPI` `LangGraph` `MongoDB Atlas Vector Search` `Next.js` `Coinbase CDP`**
+<h3><a href="https://github.com/aryaMehta26/LayoverOS">LayoverOS</a> — Multi-Agent Recovery System</h3>
 
-> 🏅 *MongoDB Agentic Hackathon*
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coinbase_CDP-0052FF?style=flat-square&logo=coinbase&logoColor=white"/>
+</p>
+
+> **MongoDB Agentic Hackathon**
 
 - Architected a **multi-agent state machine** using LangGraph — Supervisor node routes intent to **autonomous agents** (Scout, Flight, Bursar) for parallelized context execution
-- Engineered a **zero-hallucination RAG pipeline** on MongoDB Atlas Vector Search with 1024-dim Voyage AI embeddings + strict metadata pre-filters → **100% data accuracy**
+- Engineered a **zero-hallucination RAG pipeline** on MongoDB Atlas Vector Search with 1024-dim Voyage AI embeddings + strict metadata pre-filters for **100% data accuracy**
 - Implemented **Agentic Commerce** via Coinbase CDP — AI autonomously constructs transaction payloads and triggers Generative UI payment modals in Next.js
-- Built self-healing fallback mechanism: MongoDBSaver checkpointing for persistent multi-turn memory + auto-rerouting to raw DB queries during LLM outages
+- Built self-healing fallback: MongoDBSaver checkpointing for persistent multi-turn memory + auto-rerouting to raw DB queries during LLM outages
 
 <div align="center">
 <a href="https://github.com/aryaMehta26/LayoverOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aryaMehta26&repo=LayoverOS&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6" alt="LayoverOS"/></a>
@@ -180,15 +187,25 @@ fun_fact: "Some of my best code gets written after sunset 🦉"
 <!-- PROJECT 2: SJ Hopes -->
 <table>
 <tr>
-<td width="100%">
+<td>
 
-### 🏗️ [SJ Hopes](https://github.com/aryaMehta26/sj-hopes) — Real-Time Collaborative Platform
-**`TypeScript` `React` `Next.js` `Java` `Spring Boot` `MySQL` `WebSocket` `Redis`**
+<h3><a href="https://github.com/aryaMehta26/sj-hopes">SJ Hopes</a> — Real-Time Collaborative Platform</h3>
 
-> 🥈 *2nd Prize among 300+ teams — 48-hour hackathon*
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+</p>
+
+> **2nd Prize among 300+ teams — 48-hour hackathon**
 
 - Won 2nd place with **real-time collaboration** via WebSocket, geospatial algorithms (Haversine), and R-trees for location queries
-- Scaled to **1,000+ concurrent users** using connection pooling, database sharding, and Redis caching → **<100ms P95 response time**
+- Scaled to **1,000+ concurrent users** using connection pooling, database sharding, and Redis caching — **<100ms P95 response time**
 - Applied **graph algorithms** (Dijkstra's) for route optimization and collaborative filtering for recommendations
 - Achieved **95% test coverage**; implemented PWA features including offline support and push notifications
 
@@ -203,16 +220,26 @@ fun_fact: "Some of my best code gets written after sunset 🦉"
 <!-- PROJECT 3: Distributed Data Platform -->
 <table>
 <tr>
-<td width="100%">
+<td>
 
-### ⚡ [Distributed Data Platform](https://github.com/aryaMehta26/data-platform) — Production-Grade ETL at Scale
-**`Python` `Airflow 2.x` `Spark 3.5` `FastAPI` `Docker` `Kubernetes (EKS)` `Prometheus` `Grafana`**
+<h3><a href="https://github.com/aryaMehta26/data-platform">Distributed Data Platform</a> — Production-Grade ETL at Scale</h3>
 
-> 📊 *5 TB+/day • 100+ concurrent jobs • 99.9% uptime*
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airflow_2.x-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spark_3.5-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes_(EKS)-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+</p>
 
-- Orchestrated **5 TB+/day ETL** on Kubernetes/EKS using Airflow + Spark-on-K8s — tuned partitioning & predicate pushdown → **−60% shuffle, −55% wall-clock, −40% infra cost**
-- Instrumented a **50+ rule data-quality framework** (nulls, uniqueness, ranges, regex, temporal) → exported to Prometheus with Grafana SLO dashboards → **anomalies −85%**
-- Shipped FastAPI microservice with readiness/liveness probes + gunicorn/uvicorn → maintained **p95 < 100ms**; hardened with RBAC, resource limits, retries
+> **5 TB+/day  •  100+ concurrent jobs  •  99.9% uptime**
+
+- Orchestrated **5 TB+/day ETL** on Kubernetes/EKS using Airflow + Spark-on-K8s — tuned partitioning & predicate pushdown for **-60% shuffle, -55% wall-clock, -40% infra cost**
+- Instrumented a **50+ rule data-quality framework** (nulls, uniqueness, ranges, regex, temporal) — exported to Prometheus with Grafana SLO dashboards for **anomalies -85%**
+- Shipped FastAPI microservice with readiness/liveness probes + gunicorn/uvicorn — maintained **p95 < 100ms**; hardened with RBAC, resource limits, retries
 - Automated CI/CD via GitHub Actions (tests + image builds), versioned K8s manifests, and runbooks for on-call troubleshooting
 
 <div align="center">
@@ -226,7 +253,7 @@ fun_fact: "Some of my best code gets written after sunset 🦉"
 <br>
 
 <details>
-<summary><b>🔥 More Projects</b></summary>
+<summary><b>More Projects</b></summary>
 <br>
 
 <div align="center">
@@ -256,36 +283,7 @@ fun_fact: "Some of my best code gets written after sunset 🦉"
 
 ---
 
-<!-- EXPERIENCE HIGHLIGHTS -->
-## 💼 Experience
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│  MeteoControl — Software Engineer                  Jan 2024 – Dec 2024  │
-│  ─────────────────────────────────────────────────────────────────────── │
-│  • Shipped weekly across Java/Spring Boot + React/TS for 10k+ users     │
-│  • O(n²) → O(n log n) via B+ trees & hashing → +40% throughput         │
-│  • Blue-green/canary deploys, circuit breakers → 99.9%+ availability    │
-│  • Built Python/Bash tooling → eliminated ~20 hrs/week manual toil      │
-│                                                                         │
-│  Dupat Infotronicx — Software Engineer Intern      Aug 2022 – Aug 2023  │
-│  ─────────────────────────────────────────────────────────────────────── │
-│  • Built web + data platform processing 1M+ records/day                 │
-│  • Re-architected ETL → 3× faster processing, −65% CPU                 │
-│  • REST APIs with ~95% test coverage, Agile sprints                     │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<!-- CONTRIBUTION SNAKE -->
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 <picture>
@@ -297,13 +295,12 @@ fun_fact: "Some of my best code gets written after sunset 🦉"
 
 ---
 
-<!-- CONNECT FOOTER -->
 <div align="center">
 
-### 💬 Let's Build Something
+<h3>Let's Build Something</h3>
 
 <p>
-<a href="https://arya-mehta.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-bd93f9?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://arya-mehta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-bd93f9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/aryamehta26/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://medium.com/@aryamehta"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 <a href="mailto:aryamehta456@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff79c6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
