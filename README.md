@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b27,50:bd93f9,75:ff79c6,100:50fa7b&height=220&section=header&text=Arya%20Mehta&fontSize=72&fontColor=f8f8f2&fontAlignY=35&desc=Systems%20Architect%20%7C%20AI%20Engineer%20%7C%20Open-Source%20Contributor&descSize=18&descAlignY=55&descColor=8be9fd&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b27,50:bd93f9,75:ff79c6,100:50fa7b&height=220&section=header&text=Arya%20Mehta&fontSize=72&fontColor=f8f8f2&fontAlignY=35&desc=Systems%20Architect%20%7C%20AI%20Engineer%20%7C%20Bay%20Area&descSize=18&descAlignY=55&descColor=8be9fd&animation=fadeIn" width="100%"/>
 
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+distributed+systems+%26+AI+agents;Bay+Area+%7C+SJSU+MS+Applied+Data+Science;LangGraph+%C2%B7+RAG+%C2%B7+Multi-Agent+%C2%B7+Kafka+%C2%B7+Spark" alt="Typing SVG" /></a>
@@ -30,19 +30,26 @@
 name: Arya Mehta
 location: San Francisco Bay Area
 education: MS Applied Data Science — San Jose State University (2025-2026)
-open_source: Contributed Agentic Commerce pattern to LangGraph (Python)
-experience: 2+ years shipping production systems at scale
 currently_building: Multi-agent AI systems & distributed data platforms
+open_source: Contributed Agentic Commerce pattern to LangGraph
 motto: "I build systems that run while the world sleeps."
+```
+
+```js
+// arya.config.js
+const arya = {
+  focus:     ["Distributed Systems", "Multi-Agent AI", "RAG Pipelines"],
+  languages: ["Python", "Java", "Go", "C++", "TypeScript"],
+  daily:     ["LangGraph", "Kafka", "Spark", "Kubernetes", "FastAPI"],
+  scale:     { etl: "5 TB+/day", uptime: "99.9%", latency: "p95 < 100ms" },
+};
+
+export default arya;
 ```
 
 <div align="center">
 
-<a href="https://github.com/langchain-ai/langgraph">
-<img src="https://img.shields.io/badge/Open_Source_Contributor-LangGraph_(Python)-50fa7b?style=for-the-badge&labelColor=1a1b27" alt="LangGraph Contributor"/>
-</a>
 <img src="https://img.shields.io/badge/SJSU-MS_Applied_Data_Science-bd93f9?style=for-the-badge&labelColor=1a1b27" alt="SJSU"/>
-<img src="https://img.shields.io/badge/2+_Years-Production_Systems-ff79c6?style=for-the-badge&labelColor=1a1b27" alt="Experience"/>
 
 </div>
 
