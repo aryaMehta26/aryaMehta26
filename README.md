@@ -160,6 +160,96 @@ export default arya;
 
 ## Featured Projects
 
+<!-- PROJECT: StrataDB -->
+<table>
+<tr>
+<td>
+
+<h3><a href="https://github.com/aryaMehta26/StrataDB">StrataDB</a> — Crash-Safe LSM Storage Engine</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/pprof-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fuzz_Testing-bd93f9?style=flat-square&logo=go&logoColor=white"/>
+</p>
+
+> **31.8x concurrent durable writes  •  1,000 crash cycles, zero lost writes  •  3x faster point reads**
+
+- Built an **LSM key-value storage engine** from first principles in Go — skip-list memtable, checksummed write-ahead log, SSTables with Bloom filters, compaction, and cold tables tiered to **Amazon S3** via range reads
+- Profiled with pprof and built **group commit**, so concurrent writers share one fsync — **31.8x** higher concurrent durable write throughput; cached file handles cut local point-read latency **3x**
+- Crash harness kills the process at random **1,000 times** with **zero acknowledged-write loss**, backed by model-based tests and fuzz targets for the WAL and manifest decoders
+- O(1) LRU block cache, k-way heap merge for range scans, and atomic multi-key write batches
+
+<div align="center">
+<a href="https://github.com/aryaMehta26/StrataDB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aryaMehta26&repo=StrataDB&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6" alt="StrataDB"/></a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<!-- PROJECT: CloudGate -->
+<table>
+<tr>
+<td>
+
+<h3><a href="https://github.com/aryaMehta26/CloudGate-Distributed-API-GATEWAY">CloudGate</a> — Distributed Multi-Tenant API Gateway</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+> **11,240 req/s  •  p99 47.1 ms  •  0.00% errors (wrk load test)**
+
+- Multi-tenant **API gateway in Go** with Redis Lua token-bucket and sliding-window **rate limiting**, circuit breakers, and bulkheads
+- Tenant policy changes reach **every replica in real time** over Redis Pub/Sub, with rate limits keyed per client IP
+- Async batched **Cassandra audit log**, Prometheus metrics, and Helm on Kubernetes with autoscaling
+- CI with **race-detector tests in 9 packages**, golangci-lint, govulncheck, and Trivy; multi-arch images and prebuilt release binaries
+
+<div align="center">
+<a href="https://github.com/aryaMehta26/CloudGate-Distributed-API-GATEWAY"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aryaMehta26&repo=CloudGate-Distributed-API-GATEWAY&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6" alt="CloudGate"/></a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<!-- PROJECT: Recovery Monitor -->
+<table>
+<tr>
+<td>
+
+<h3><a href="https://github.com/aryaMehta26/recovery-monitor">Recovery Monitor</a> — Vision-Language Model on an NVIDIA GB10</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LoRA-bd93f9?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NVIDIA_GB10-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
+
+> **Team hackathon project  •  exercise recognition 63.4% → 99.2%**
+
+- Fine-tuned **Qwen3-VL-4B** with **LoRA** on an NVIDIA GB10 in 66 minutes (33M trainable parameters, 0.74% of 4.4B) — exercise recognition **63.4% → 99.2%** and camera-view recognition **31.3% → 97.9%** on 476 held-out reps
+- Cut inference from **2.92 s to 1.33 s per rep**, running locally on the edge device so rehab video never leaves it
+- Validated knee angles against 16-camera motion capture: **5.3°** error on side-view squats over 9,825 frames
+
+<div align="center">
+<a href="https://github.com/aryaMehta26/recovery-monitor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aryaMehta26&repo=recovery-monitor&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6" alt="Recovery Monitor"/></a>
+</div>
+
+</td>
+</tr>
+</table>
+
 <!-- PROJECT 1: LayoverOS -->
 <table>
 <tr>
